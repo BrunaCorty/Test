@@ -1,2 +1,2 @@
 # Test
-Echo „ola mundo“
+Echo „ola mundo“ |openssl sha1
